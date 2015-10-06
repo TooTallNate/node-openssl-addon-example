@@ -1,0 +1,9 @@
+{
+  "name": "openssl-addon-example",
+  "version": "1.0.0",
+  "description": "https://github.com/nodejs/node-v0.x-archive/issues/4051",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.0.9"
+  }
+}
